@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.13.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.2",
+    "prettier-plugin-solidity": "^1.1.3"
+  }
+}
